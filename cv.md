@@ -33,6 +33,7 @@ function multiply (a, b) {
 ## Languages:
 * Russian - Native
 * English - Intermediate ![](https://sun7-13.userapi.com/s/v1/ig2/2LKLaf0sd5qMdXUnvjEKdZ0lCQvS_fDrdXL3G2QQ58vOqqr9ac6jV1q1jmBJa5bKo5fevAI8jWKphbK1x_dicTmX.jpg?size=1100x884&quality=96&type=album)
+* Tatarcha - Native
     
 
 
